@@ -1,0 +1,33 @@
+body {
+
+  background-image: url('grey.jpg');
+
+  background-size: cover;
+
+  font-family: 'Roboto', sans-serif;
+
+  font-size: 20px;
+
+  text-align: center;
+
+}
+
+
+
+h1 {
+
+  color: black;
+
+  text-align: center;
+
+  font-size: 60px;
+
+}
+
+
+
+img {
+
+  float: center
+
+}

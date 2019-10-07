@@ -1,0 +1,67 @@
+body{
+font-family: 'Roboto', sans-serif;
+}
+
+p{
+font-size: 20px;
+line-height: 26px;
+padding-top: 0px;
+
+}
+
+h1{
+font-size: 36px;
+line-height: 36px;
+}
+
+img{
+  float:left
+  margin-left: 20px;
+  margin-top: 40px;
+  width: 300px;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+ul li{
+  padding-bottom: 10px;
+}
+
+ol li{
+  padding-bottom: 20px;
+}
+
+
+h2{
+font-size: 32px;
+line-height: 32px;
+padding-bottom:20px;
+padding-left: 0px;
+}
+
+div.tip{
+  border-left: 6px solid #def6ed;
+  	background-color: #def6ed;
+  	border-radius: 4px;
+  	padding: 25px 25px 25px 25px;
+  	font-size: 20px;
+  	line-height: 26px;
+    
+}
+
+ol{
+  padding-left: 0px;
+}
+
+content{
+  width: 1000px;
+  margin: 0px auto;
+  padding-bottom: 50px;
+}
+
+.container{
+  width: 40%;
+  margin: 0 auto;
+}
